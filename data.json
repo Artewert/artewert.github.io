@@ -1,0 +1,26 @@
+[
+        {
+            "id": 1,
+            "title": "Человек паук",
+            "rating": 5,
+            "author": "Матвей",
+            "cover": "smLogo.jpg",
+            "description": "Этот чудесный комикс про человека паука"
+        },
+        {
+            "id": 2,
+            "title": "Бэтмен",
+            "rating": 4,
+            "author": "Крутой чел",
+            "cover": "bmLogo.jpeg",
+            "description": "Этот замечательный комикс про бэтмэна"
+        },
+        {
+            "id": 3,
+            "title": "Хранители",
+            "rating": 2,
+            "author": "Крутой чел",
+            "cover": "wmLogo.jpg",
+            "description": "Этот хороший комикс про хранителей"
+        }
+]
