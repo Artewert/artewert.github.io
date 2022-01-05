@@ -22,5 +22,13 @@
             "author": "Крутой чел",
             "cover": "wmLogo.jpg",
             "description": "Этот хороший комикс про хранителей"
+        },
+        {
+            "id": 4,
+            "title": "Узбеки",
+            "rating": 100,
+            "author": "Крутой чел",
+            "cover": "wmLogo.jpg",
+            "description": "Этот хороший комикс про узбеков"
         }
 ]
